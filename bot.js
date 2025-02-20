@@ -9,6 +9,6 @@ setInterval(() => {
         element.click();
         console.log("Clicked the button");
     } catch (error) {
-        console.log("Button not found");
+        console.log("Script is working - Button not found.");
     }
 }, interval * 1000);
