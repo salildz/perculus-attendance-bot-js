@@ -32,7 +32,7 @@
 Kod içindeki `interval` değişkenini değiştirerek tıklama süresini özelleştirebilirsiniz.  
 
 ```javascript
-let interval = 2000; // 2 saniyede bir yoklama butonu taraması yapar
+let interval = 2; // 2 saniyede bir yoklama butonu taraması yapar
 ```
 
 Daha uzun veya kısa aralıklarla çalışmasını istiyorsanız, bu değeri değiştirebilirsiniz.  
@@ -87,7 +87,7 @@ Bu bot yalnızca **kişisel kullanım** ve **araştırma** amaçlı geliştirilm
 Modify the `interval` variable in the script to change the clicking frequency.  
 
 ```javascript
-let interval = 2000; // Scans for attendance button every 2 seconds
+let interval = 2; // Scans for attendance button every 2 seconds
 ```
 
 You can increase or decrease this value to suit your needs.  
